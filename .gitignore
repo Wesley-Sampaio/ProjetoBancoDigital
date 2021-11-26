@@ -1,1 +1,6 @@
-/bin/
+# ignora todas as pastas "bin"
+# em qualquer uma das pastas
+bin/
+
+# ignora todas as pastas "target"
+target/
